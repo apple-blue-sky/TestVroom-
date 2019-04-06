@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/_Scenes.unity
+- path: Assets/_Scenes/small_town_america/general/demo.unity
   isLoaded: 1
   isActive: 1
