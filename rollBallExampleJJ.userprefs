@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="rollBallExampleJJ.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="25" Column="38" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="13" Column="51" />
+      <File FileName="Assets\Scripts\Rotator.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
