@@ -24,7 +24,6 @@ public class Crash : MonoBehaviour
     {
         if (other.gameObject.CompareTag("crashed"))
         {
-            other.gameObject.SetActive(false);
             CrashText();
         }
     }
