@@ -15,7 +15,7 @@ public class testIO : MonoBehaviour {
 
 
 
-
+        /*
 		if ( Input.GetKey(KeyCode.Space))
         {
             Debug.Log("SPACEBAR DETECTED");
@@ -32,7 +32,7 @@ public class testIO : MonoBehaviour {
         if ( Input.GetAxis("Vertical") != -1 && Input.GetAxis("Vertical") != 0 )
         {
             Debug.Log("GAAAAAAAAAAAAS");
-            Debug.Log(Input.GetAxis("Vertical"));
+            //Debug.Log(Input.GetAxis("Vertical"));
         }
 
         if ( Input.GetAxis("Mouse ScrollWheel") != 0 && Input.GetAxis("Mouse ScrollWheel") != 0.1f )
@@ -41,7 +41,7 @@ public class testIO : MonoBehaviour {
             Debug.Log(Input.GetAxis("Mouse ScrollWheel"));
         }
 
-
+    */
 
 
 
