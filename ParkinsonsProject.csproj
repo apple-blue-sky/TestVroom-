@@ -91,7 +91,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\OutPost\Resources\Scripts\FPS_Camera.cs" />
+    <Compile Include="Assets\OutPost 2\Resources\Scripts\FPS_Camera.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Crash.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
@@ -99,8 +99,8 @@
     <Compile Include="Assets\testIO.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\OutPost\Resources\Assets\Materials\2sided.shader" />
-    <None Include="Assets\OutPost\Resources\Scripts\Camera Howto.txt" />
+    <None Include="Assets\OutPost 2\Resources\Assets\Materials\2sided.shader" />
+    <None Include="Assets\OutPost 2\Resources\Scripts\Camera Howto.txt" />
     <None Include="Assets\Plugins\SimpleInput\Credits.txt" />
     <None Include="Assets\Plugins\SimpleInput\README.txt" />
     <None Include="Assets\ZGONAssets\Modern_ConcreteBuildingExt_01\Modern_ConcreteBuildingExt_01.xml" />

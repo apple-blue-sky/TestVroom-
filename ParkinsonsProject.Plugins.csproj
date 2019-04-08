@@ -117,8 +117,8 @@
     <Compile Include="Assets\Plugins\SimpleInput\Scripts\SimpleInputHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\OutPost\Resources\Assets\Materials\2sided.shader" />
-    <None Include="Assets\OutPost\Resources\Scripts\Camera Howto.txt" />
+    <None Include="Assets\OutPost 2\Resources\Assets\Materials\2sided.shader" />
+    <None Include="Assets\OutPost 2\Resources\Scripts\Camera Howto.txt" />
     <None Include="Assets\Plugins\SimpleInput\Credits.txt" />
     <None Include="Assets\Plugins\SimpleInput\README.txt" />
     <None Include="Assets\ZGONAssets\Modern_ConcreteBuildingExt_01\Modern_ConcreteBuildingExt_01.xml" />
