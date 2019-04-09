@@ -119,6 +119,8 @@
   <ItemGroup>
     <None Include="Assets\OutPost 2\Resources\Assets\Materials\2sided.shader" />
     <None Include="Assets\OutPost 2\Resources\Scripts\Camera Howto.txt" />
+    <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
+    <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <None Include="Assets\Plugins\SimpleInput\Credits.txt" />
     <None Include="Assets\Plugins\SimpleInput\README.txt" />
     <None Include="Assets\ZGONAssets\Modern_ConcreteBuildingExt_01\Modern_ConcreteBuildingExt_01.xml" />
